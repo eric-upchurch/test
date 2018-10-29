@@ -92,4 +92,8 @@ Mon, Oct 29, 2018  9:07:44 AM
 =======
 Mon, Oct 29, 2018  9:07:46 AM
 Mon, Oct 29, 2018  9:07:47 AM
+<<<<<<< HEAD
 >>>>>>> b5ac3c5... SSDP-2000: Testing interactive rebase capability with hooks 4
+=======
+Mon, Oct 29, 2018  9:07:49 AM
+>>>>>>> d4d2c07... SSDP-2000: Testing interactive rebase capability with hooks 5
